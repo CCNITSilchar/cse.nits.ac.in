@@ -1,0 +1,57 @@
+@charset "utf-8";
+/* CSS Document */
+
+.imgurl{
+	float:left;
+	padding-right: 20px;
+	width: 500px;
+	max-width: 550px;
+	
+}
+.imgurl a{
+	float:left;
+}
+.clear{
+	clear:both;
+}
+.inputs{
+	margin-top: 5px;
+}
+.hidetext{
+	
+	}
+	
+	
+.divfieldset {
+	
+margin-left: 8px;
+	
+}
+
+.divfieldset.divfieldset  {
+	
+margin-left: 10px;
+	
+}
+
+
+#themeparams{ width: 1180px; }
+#themeparams fieldset{
+	border: 2px solid #4f9bc6 ;/*#CCA383 1462a5*/
+	width: 90%;
+	background:  #fafbfd;
+	padding: 13px;
+	margin-top: 20px;	
+	
+	-webkit-border-radius: 8px;
+	-moz-border-radius: 8px;
+	border-radius: 8px;
+	
+}
+#themeparams fieldset legend{
+	
+	padding: 6px 6px 6px 2px;
+	font-weight: bold;
+	margin-left: 10px;
+	
+}

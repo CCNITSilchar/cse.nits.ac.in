@@ -1,0 +1,126 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Vertical scroll recent post\n"
+"POT-Creation-Date: 2014-08-10 15:42+0800\n"
+"PO-Revision-Date: 2014-08-10 15:42+0800\n"
+"Last-Translator: \n"
+"Language-Team: www.gopiplus.com <www.gopiplus.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../vertical-scroll-recent-post.php:106
+msgid "No data available"
+msgstr ""
+
+#: ../vertical-scroll-recent-post.php:125
+#: ../vertical-scroll-recent-post.php:148
+#: ../vertical-scroll-recent-post.php:243
+#: ../vertical-scroll-recent-post.php:244
+#: ../vertical-scroll-recent-post.php:256
+#: ../vertical-scroll-recent-post.php:261
+msgid "Vertical scroll recent post"
+msgstr ""
+
+#: ../vertical-scroll-recent-post.php:127
+#: ../vertical-scroll-recent-post.php:235
+msgid "Check official website for more information"
+msgstr ""
+
+#: ../vertical-scroll-recent-post.php:128
+#: ../vertical-scroll-recent-post.php:236
+msgid "click here"
+msgstr ""
+
+#: ../vertical-scroll-recent-post.php:176
+msgid "Details successfully updated."
+msgstr ""
+
+#: ../vertical-scroll-recent-post.php:182
+msgid "Widget setting"
+msgstr ""
+
+#: ../vertical-scroll-recent-post.php:184
+msgid "Widget title"
+msgstr ""
+
+#: ../vertical-scroll-recent-post.php:186
+msgid "Please enter your widget title."
+msgstr ""
+
+#: ../vertical-scroll-recent-post.php:188
+msgid "Height"
+msgstr ""
+
+#: ../vertical-scroll-recent-post.php:190
+msgid ""
+"Please enter your height. If any overlap in the scroll at front end, <br /"
+">You should arrange this height (increase/decrease this height)."
+msgstr ""
+
+#: ../vertical-scroll-recent-post.php:192
+msgid "Display count"
+msgstr ""
+
+#: ../vertical-scroll-recent-post.php:194
+msgid ""
+"Please enter your display count. Display number of post at the same time in "
+"scroll."
+msgstr ""
+
+#: ../vertical-scroll-recent-post.php:196
+msgid "Scroll post count"
+msgstr ""
+
+#: ../vertical-scroll-recent-post.php:198
+msgid ""
+"Please enter your scroll post count. Enter max number of post to scroll."
+msgstr ""
+
+#: ../vertical-scroll-recent-post.php:200
+msgid "Enter categories"
+msgstr ""
+
+#: ../vertical-scroll-recent-post.php:202
+msgid "Please enter category IDs, separated by commas."
+msgstr ""
+
+#: ../vertical-scroll-recent-post.php:204
+msgid "Select orderbys"
+msgstr ""
+
+#: ../vertical-scroll-recent-post.php:214
+msgid "Please select your orderby option."
+msgstr ""
+
+#: ../vertical-scroll-recent-post.php:216
+msgid "Select order"
+msgstr ""
+
+#: ../vertical-scroll-recent-post.php:221
+msgid "Please select your order."
+msgstr ""
+
+#: ../vertical-scroll-recent-post.php:224
+msgid "Submit"
+msgstr ""
+
+#: ../vertical-scroll-recent-post.php:225
+msgid "Help"
+msgstr ""
+
+#: ../vertical-scroll-recent-post.php:230
+msgid "Plugin configuration option"
+msgstr ""
+
+#: ../vertical-scroll-recent-post.php:232
+msgid "Add directly in to the theme using PHP code."
+msgstr ""
+
+#: ../vertical-scroll-recent-post.php:233
+msgid "Drag and drop the widget to your sidebar."
+msgstr ""

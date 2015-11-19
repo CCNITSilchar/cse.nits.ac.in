@@ -1,0 +1,84 @@
+.vsrp_wrapper{
+    text-align: left;
+    vertical-align: middle;
+    text-decoration: none;
+    overflow: hidden;
+}
+
+.vsrp_div{
+    font-size: 13px;
+    font-size: 0.928571429rem;
+    padding: 4px 0;
+    line-height: 1.1;
+    position: relative;
+    vertical-align: top;
+}
+
+.vsrp_div > img {
+    margin: 0 2% 0 0;
+}
+
+.vsrp_error{
+    padding: 5px 0;
+}
+
+.vrsp_date {
+    font-size: 11px;
+}
+
+#vsrp_category_link{
+    margin: 2% 0 0 0;
+    float: right;
+    font-style: italic;
+}
+
+.wp-post-image{
+    vertical-align: middle;
+}
+
+.vsrp_thumb{
+}
+
+.basic-grey {
+    margin-right: auto;
+    margin-left: auto;
+    background: #EEE;
+    padding: 10px 15px 10px 15px;
+    font: 12px Georgia, "Times New Roman", Times, serif;
+    color: #888;
+    text-shadow: 1px 1px 1px #FFF;
+    border: 1px solid #DADADA;
+}
+
+.basic-grey label {
+    display: block;
+    margin: 0px 0px 5px;
+}
+
+.basic-grey label>span {
+    float: left;
+    width: 80px;
+    text-align: right;
+    padding-right: 10px;
+    margin-top: 10px;
+    color: #888;
+}
+
+.basic-grey input[type="text"], .basic-grey input[type="email"], .basic-grey textarea, .basic-grey select {
+    border: 1px solid #DADADA;
+    color: #888;
+    height: 24px;
+    margin-bottom: 6px;
+    margin-right: 6px;
+    margin-top: 2px;
+    outline: 0 none;
+    padding: 3px 3px 3px 5px;
+    width: 70%;
+    font: normal 12px/12px Georgia, "Times New Roman", Times, serif;
+}
+
+.basic-grey select {
+    text-indent: 0.01px;
+    width: 70%;
+    height: 30px;
+}
